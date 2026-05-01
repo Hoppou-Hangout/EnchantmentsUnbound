@@ -1,15 +1,25 @@
-![Enchantments Unbound](https://cdn.modrinth.com/data/cached_images/8ada4c5fd129455f77fa91cf80fe2d54aab230ec.png)
-Customizable level caps, cost scaling, enchantment compatibility, item renaming, and more!
+![Enchantments Unbound](https://cdn.modrinth.com/data/cached_images/03ce67d622234cec8b4ab3b7e7fc6ca1347c9d26.png)
 
-**No Enchantment Conflicts** - Mending + Infinity
+![Overview](https://cdn.modrinth.com/data/cached_images/cae554b89ce9f2899611ee1ecaae7b20e23518a0.png)
 
-**Exponential Cost Scaling** - More enchanted books and more XP levels each combination
+Enchantments Unbound provides full control over removing enchantment limits and setting individual level caps. The mod is completely survival-friendly and allows you to combine enchantments directly in the anvil without worrying about the vanilla "Too Expensive!" limit. The mod can also provide overleveled enchantments through villager trading, and vanilla conflicts can be disabled to allow Mending & Infinity or Sharpness on Tridents.
 
-**Never Too Expensive** - Configurable scaling or a set value
+![Key Features](https://cdn.modrinth.com/data/cached_images/80a6480d8bdf153623b5ef021abff43a87807a00.png)
 
-**Native Custom Enchantment Support** - Full configurability for custom enchantments
+- Set any enchantment to any level (Sharpness 255)
+- Remove all enchantment conflicts (Infinity + Mending, etc.)
+- Bypass the “Too Expensive!” anvil limit
+- Apply any enchantment to any item (Sharpness on Tridents)
+- Customize anvil XP cost and scaling
+- Generate high-level books via villager trading
+- Supports custom enchantments automatically
+- Works on vanilla servers (client-side optional)
 
 ![Feature Showcase](https://cdn.modrinth.com/data/cached_images/e536eb0d548815feb58ff458c6806c8883f97fee_0.webp)
+
+![Configuration](https://cdn.modrinth.com/data/cached_images/b9fbeeae7069bd26e2c9dba4ea007b9b56c1800d.png)
+
+The mod can be configured through the ingame [ModMenu](https://modrinth.com/mod/modmenu) and [Cloth Config](https://modrinth.com/mod/cloth-config) GUI. Server owners can configure settings in the `enchantmentsunbound.json`
 
 ### Individual Enchantment Level Caps
 ![Feature Showcase 2](https://cdn.modrinth.com/data/cached_images/dbf17fe3dd1ad6fd481040ecd487cce4628197f7_0.webp)
@@ -24,7 +34,7 @@ Customizable level caps, cost scaling, enchantment compatibility, item renaming,
 
 ![Feature Showcase 5](https://cdn.modrinth.com/data/cached_images/dc740932539ac5ac6c8c35f6bd8ee24c6b3390aa_0.webp)
 
-**Comamnds for checking the current mod configuration**
+![Commands](https://cdn.modrinth.com/data/cached_images/73e0d946fa06f9c1dbd2b3d03706eb420a5e70a1.png)
 
 `/eu configinfo anvilcaps (page #)`
 
@@ -38,4 +48,12 @@ Customizable level caps, cost scaling, enchantment compatibility, item renaming,
 
 ![configinfo misc command demonstration](https://cdn.modrinth.com/data/cached_images/17076dfda7650d2b63ab361bd778884129f9f12e.png)
 
+![About](https://cdn.modrinth.com/data/cached_images/fce65ed159d83ae66224499cbca1088557cbb7ee.png)
+
 Please join my [Discord](https://discord.gg/ZCaGkZeb4C) with feedback, questions, bugs, or to say thanks!
+
+### Planned Features
+- Infinite anvil durability
+- Modify enchantments from the enchantment table, fishing, chests, looted items, and piglins
+- Particle effects for anvil transations
+- Customizable grindstone behavior
