@@ -33,7 +33,7 @@ public abstract class MerchantOfferMixin {
 				if (enchantments == null) {
 					return;
 				}
-				RandomSource random = RandomSource.create(baseCostA.count());
+				RandomSource random = RandomSource.create();
 				for (Object2IntMap.Entry<Holder<Enchantment>> entry : enchantments.entrySet()) {
 					int level;
 					if (ConfigManager.config.useGlobalVillagerCap) {
